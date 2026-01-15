@@ -1,4 +1,6 @@
 # Whispering
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Whispering&type=Date)](https://star-history.com/#rudrankriyam/Whispering&Date)
+
 
 A simple macOS menubar app built with SwiftUI and WhisperKit.
 
