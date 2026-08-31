@@ -28,5 +28,3 @@ This project is MIT licensed under the terms specified in the LICENSE file.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Whispering&type=Date)](https://star-history.com/#rudrankriyam/Whispering&Date)
